@@ -1,1 +1,3 @@
 # airway_mycobiome
+
+This repository contains the raw cytokine data and OTU tables as well as relavent custom analysis code for Willis et al 2020, an analysis of the multi-kingdom (viral, bacterial and fungal) airway microbial communities from a cohort of extremely premature infants at high risk to develop bronchopulmonary dysplasia. This work was supported by the National Heart, Lung, and Blood Institute of the U.S. National Institutes of Health, K08 HL151907 (K.A.W.) and K08 HL141652 (C.V.L.), the University of Alabama at Birmingham Microbiome Center (K.A.W.) and the American Heart Association 17SDG32720009 (C.V.L.). All data is the intelectualy property of the authors and may be utilized for academic publicaion only with prior written permission.
